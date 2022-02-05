@@ -17,4 +17,8 @@ The scoring system features 7 categories, which are:
 All are in a scale of 1 to 5, with 5 as the most satisfactory.
 
 ## Data Source
-The data is retrieved from data.gov.hk using the API provided at the website.
+The data was retrieved from data.gov.hk using the API provided at the website.
+
+## Visualisation
+After data preprocessing, the data was sent to Tableau for visualisation. Below is the link:
+https://public.tableau.com/views/ExaminingCustomerSatisfactiontowards1823/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
