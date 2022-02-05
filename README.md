@@ -1,4 +1,4 @@
-# 1823-Customer-Sentiment-Anaysis
+# 1823-Customer-Satisfaction-Anaysis
 
 ## What is 1823?
 1823 is a hotline service set up by the Hong Kong government to answer citizens' queries about public services. This mini-project will explore how different factors affecting the public satisfaction score towards 1823 hotline service.
